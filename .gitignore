@@ -1,0 +1,12 @@
+node_modules/
+
+.env
+.env.*
+
+
+public
+src/data
+src/hasil
+src/downloads
+src/preprocessed
+src/upload

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.17",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "extract-zip": "^2.0.1",
+    "fuzzball": "^2.2.6",
+    "multer": "^2.2.0",
+    "opencv-wasm": "^4.3.0-10",
+    "pdf-poppler": "^0.2.3",
+    "sharp": "^0.35.2",
+    "tesseract.js": "^7.0.0",
+    "word-error-rate": "^0.0.7"
+  }
+}
